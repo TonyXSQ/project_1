@@ -1,4 +1,6 @@
-# PROJECT 1 - TEST GITHUB V1.1
+# PROJECT 1 - TEST GITHUB V1.2
 
-[*] +CSS Styles
-[*] +gitignore file
+## New featuries v1.2:
++ +attach style.css
++ +create gitignore file
++ styled README.md
